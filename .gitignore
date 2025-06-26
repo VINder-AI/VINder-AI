@@ -1,0 +1,22 @@
+# Node
+node_modules/
+.env
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints
+
+# Framer/Next.js
+.next/
+out/
+dist/
+.cache/
+
+# Data and logs
+*.log
+logs/
+*.csv
+*.json
+!vinder_github_full_bundle.json
